@@ -166,14 +166,6 @@ I’m a **2nd-year Computer Science Engineering student at MSU Baroda** and an *
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Aryanbuha890&icon=5&color=6"/>
-</p>
-
----
-
 <p align="center">
   🚀 <b>Building intelligent systems that solve real-world problems</b>
 </p>
