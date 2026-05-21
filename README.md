@@ -51,7 +51,7 @@ I’m a **2nd-year Computer Science Engineering student at MSU Baroda** and an *
 
 ## 🚀 Featured Projects
 
-### 🌾 AgriForge AI
+### 🌾 AgriForge Krishimitra AI 
 > Smart Agriculture Platform  
 
 - Crop classification & disease detection  
