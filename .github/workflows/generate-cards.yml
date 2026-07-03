@@ -35,8 +35,6 @@ jobs:
               rm -f "$tmp"
             fi
           }
-          fetch "https://github-readme-stats.vercel.app/api?username=${USER}&theme=${THEME}&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E2E8F0" "stats.svg"
-          fetch "https://github-readme-stats.vercel.app/api/top-langs/?username=${USER}&theme=${THEME}&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=C084FC&text_color=E2E8F0" "top-langs.svg"
           fetch "https://streak-stats.demolab.com/?user=${USER}&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=C084FC&dates=94A3B8" "streak.svg"
           fetch "https://github-readme-activity-graph.vercel.app/graph?username=${USER}&theme=react-dark&bg_color=0D1117&color=C084FC&line=A855F7&point=E2E8F0&hide_border=true&area=true&area_color=7C3AED" "activity-graph.svg"
 

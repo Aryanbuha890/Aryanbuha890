@@ -374,11 +374,6 @@ class AryanBuha:
 <div align="center">
 
 <!-- Stats Cards — loaded from local assets directory updated daily by GitHub Actions -->
-<img height="180em" src="./assets/stats.svg?v=1" alt="stats"/>
-<img height="180em" src="./assets/top-langs.svg?v=1" alt="top langs"/>
-
-<br/><br/>
-
 <img src="./assets/streak.svg?v=1" alt="streak"/>
 
 <br/><br/>
