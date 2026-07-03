@@ -18,11 +18,7 @@
 <br/><br/>
 
 <!-- ===================== PROFILE BADGES ===================== -->
-<img src="https://komarev.com/ghpvc/?username=Aryanbuha890&label=PROFILE%20VIEWS&color=A855F7&style=for-the-badge&labelColor=0D1117" alt="views"/>
-<a href="https://github.com/Aryanbuha890?tab=followers">
-  <img src="https://img.shields.io/github/followers/Aryanbuha890?label=FOLLOWERS&style=for-the-badge&color=A855F7&labelColor=0D1117&logo=github" alt="followers"/>
-</a>
-<img src="https://img.shields.io/badge/BASED%20IN-Vadodara,%20India-A855F7?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=C084FC" alt="location"/>
+<img src="https://img.shields.io/badge/BASED%20IN-Vadodara,%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
 
 </div>
 
@@ -32,16 +28,16 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aryan-buha-874a5434b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Aryanbuha890">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:aryanbuha56@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://aryanbuha-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A855F7" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
@@ -119,45 +115,45 @@ class AryanBuha:
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="280" alt="tech stack"/>
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=A855F7)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=A855F7)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=A855F7)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=A855F7)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A855F7)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=A855F7)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=A855F7)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🤖 AI / ML & Deep Learning
-![Generative AI](https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge&logo=openai&logoColor=C084FC)
-![YOLOv11](https://img.shields.io/badge/YOLOv11-0D1117?style=for-the-badge&logo=opencv&logoColor=C084FC)
-![XGBoost](https://img.shields.io/badge/XGBoost-0D1117?style=for-the-badge&logo=xgboost&logoColor=C084FC)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=C084FC)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=C084FC)
-![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=langchain&logoColor=C084FC)
-![ChromaDB](https://img.shields.io/badge/ChromaDB_RAG-0D1117?style=for-the-badge&logo=databricks&logoColor=C084FC)
-![Local LLMs](https://img.shields.io/badge/TinyLlama-0D1117?style=for-the-badge&logo=ollama&logoColor=C084FC)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB_RAG-F43F5E?style=for-the-badge&logo=databricks&logoColor=white)
+![Local LLMs](https://img.shields.io/badge/TinyLlama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### 🌐 Frontend & Frameworks
-![React](https://img.shields.io/badge/React_19-0D1117?style=for-the-badge&logo=react&logoColor=7C3AED)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=7C3AED)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=7C3AED)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=7C3AED)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D1117?style=for-the-badge&logo=framer&logoColor=7C3AED)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-F024B6?style=for-the-badge&logo=framer&logoColor=white)
 
 ### 🗄️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=8B5CF6)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=8B5CF6)
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=8B5CF6)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=8B5CF6)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=8B5CF6)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=8B5CF6)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=9333EA)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=9333EA)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=9333EA)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=9333EA)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=9333EA)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -288,10 +284,6 @@ class AryanBuha:
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Achievements & Honors
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-
 | 🏆 | Achievement | Detail |
 |:--:|:------------|:-------|
 | 🥇 | **Winner — NASA Space Apps Challenge 2025** | Built *Mumbai Pulse (CityForge)* — AI environmental monitoring with NASA datasets |
@@ -305,13 +297,6 @@ class AryanBuha:
 | 🛰️ | **ISRO Recognition** | Bharatiya Antariksh Hackathon 2025 participant |
 | 🚀 | **Finalist — HackBaroda 2026 Devnovate** | Gujarat state-level innovation sprint |
 | 📋 | **Shortlisted — HackOut 2025** | DA-IICT Gandhinagar |
-
-  </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="330" alt="achievements"/>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="line"/>
@@ -388,26 +373,18 @@ class AryanBuha:
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="240" alt="stats animation"/>
+<!-- Stats Cards — loaded from local assets directory updated daily by GitHub Actions -->
+<img height="180em" src="./assets/stats.svg?v=1" alt="stats"/>
+<img height="180em" src="./assets/top-langs.svg?v=1" alt="top langs"/>
 
 <br/><br/>
 
-<!-- Stats Cards — using live APIs with purple theme -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryanbuha890&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&text_color=E2E8F0&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanbuha890&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&langs_count=8" alt="top langs"/>
+<img src="./assets/streak.svg?v=1" alt="streak"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Aryanbuha890&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=C084FC&dates=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="streak"/>
+<img src="./assets/activity-graph.svg?v=1" width="95%" alt="activity graph"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanbuha890&theme=react-dark&bg_color=0D1117&color=C084FC&line=A855F7&point=E2E8F0&hide_border=true&area=true&area_color=7C3AED" width="95%" alt="activity graph"/>
-
-<br/><br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Aryanbuha890&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
 
 </div>
 
@@ -431,32 +408,19 @@ class AryanBuha:
 
 <br/>
 
-<!-- ===================== RANDOM QUOTE ===================== -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="quote"/>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="line"/>
-</div>
-
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="330" alt="keep building"/>
 
 ### 💜 Let's build something worth shipping.
 
 <a href="https://www.linkedin.com/in/aryan-buha-874a5434b/">
-  <img src="https://img.shields.io/badge/Let's_Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:aryanbuha56@gmail.com">
-  <img src="https://img.shields.io/badge/Say_Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://aryanbuha-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A855F7" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
