@@ -1,18 +1,18 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    ⚡ ARYAN BUHA — PROFILE README ⚡              ║ -->
-<!-- ║        Purple-Themed • AI/ML Engineer • Hackathon Champion       ║ -->
+<!-- ║        Purple-Themed • AI/ML Engineer • Full-Stack Developer      ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ===================== HERO BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:2E1065,60:7C3AED,100:A855F7&height=240&section=header&text=ARYAN%20BUHA&fontSize=56&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20Hackathon%20Champion&descAlignY=60&descSize=18&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:2E1065,60:7C3AED,100:A855F7&height=240&section=header&text=ARYAN%20BUHA&fontSize=56&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Hackathon%20Champion&descAlignY=60&descSize=18&descColor=C4B5FD" width="100%"/>
 
 <br/>
 
 <!-- ===================== TYPING SVG ===================== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=850&lines=%F0%9F%9A%80+Building+AI+that+solves+real-world+problems;%F0%9F%8F%86+NASA+Space+Apps+%7C+IBM+AI+%7C+Hackverse+Champion;%F0%9F%8C%BE+AgriForge+%7C+LogiMind+%7C+Urban+Intel+%7C+Mumbai+Pulse;%F0%9F%A7%A0+Offline-First+AI+%7C+Multi-Agent+Systems+%7C+Computer+Vision;%E2%9A%A1+4x+Hackathon+Podium+%7C+6x+National+Finalist+%7C+%E2%82%B92.43L+Grant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=850&lines=%F0%9F%9A%80+Building+AI+that+solves+real-world+problems;%F0%9F%8F%86+NASA+Space+Apps+%7C+IBM+AI+%7C+Hackverse+Champion;%F0%9F%8C%BE+AgriForge+%7C+LogiMind+%7C+Urban+Intel+%7C+Mumbai+Pulse;%F0%9F%A7%A0+Generative+AI+%7C+Multi-Agent+Systems+%7C+Computer+Vision;%E2%9A%A1+3x+Hackathon+Podium+%7C+7x+National+Finalist+%7C+%E2%82%B92.43L+Grant" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -58,13 +58,13 @@
 class AryanBuha:
     def __init__(self):
         self.name         = "Aryan Buha"
-        self.role         = "AI/ML Engineer & Full-Stack Architect"
+        self.role         = "AI/ML Engineer & Full-Stack Developer"
         self.university   = "The Maharaja Sayajirao University of Baroda"
         self.degree       = "B.E. Computer Science & Engineering [Jun 2024 → Apr 2028]"
         self.location     = "Vadodara, Gujarat, India 🇮🇳"
         
         self.mission      = [
-            "Building offline-first AI systems for real-world impact",
+            "Building intelligent AI systems for real-world impact",
             "Multi-agent coordination & computer vision pipelines",
             "Smart Agriculture, Climate-Tech & Urban Governance",
             "Shipping production-ready AI — not just demos",
@@ -102,7 +102,7 @@ class AryanBuha:
   </tr>
   <tr>
     <td align="center">⚡</td>
-    <td><i>Led Team Hell Boys through 8+ national hackathons — 4 podium finishes, 6 finalist selections, 1 government research grant.</i></td>
+    <td><i>Led Team Hell Boys through 8+ national hackathons — 3 podium finishes, 7 finalist selections, 1 government research grant.</i></td>
   </tr>
 </table>
 
