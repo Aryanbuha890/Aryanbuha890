@@ -177,7 +177,7 @@ class AryanBuha:
     <td width="46%" valign="top">
       <h3>🚢 LogiMind AI</h3>
       <b>Maritime Intelligence • Multi-Agent AI • Computer Vision</b>
-      <p>Real-time maritime & logistics intelligence OS featuring <b>YOLOv11 PPE detection</b>, <b>XGBoost predictive maintenance</b>, <b>LangGraph multi-agent war room</b>, and <b>RAG-powered AI copilot</b>. Full command center for modern port operations.</p>
+      <p>Real-time maritime & logistic intelligence OS featuring <b>YOLOv11 PPE detection</b>, <b>XGBoost predictive maintenance</b>, <b>LangGraph multi-agent war room</b>, and <b>RAG-powered AI copilot</b>. Full command center for modern port operations.</p>
       <p>🏅 <b>6th Rank — Hackverse Hackathon Mumbai</b> (50+ Teams)<br/>🏢 <b>Invited to Microsoft Office, Hyderabad</b></p>
       <p>
         <img src="https://img.shields.io/badge/React_19-2E1065?style=flat-square&logo=react&logoColor=A855F7">
