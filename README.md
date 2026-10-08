@@ -191,7 +191,7 @@ class AryanBuha:
     <td width="46%" valign="top">
       <h3>🌾 AgriForge AI</h3>
       <b>Smart Agriculture • Computer Vision • LLM Advisory</b>
-      <p>Full-stack AI platform for Indian farmers integrating <b>crop disease classification (EfficientNet)</b>, veterinary diagnostics, hyperlocal weather intelligence, crop calendars, and an <b>AI advisory chat</b> across 10+ Indian languages.</p>
+      <p>Full-stack AI platform for Indian farmers integrating <b>crop disease classification (EfficientNetV2)</b>, veterinary diagnostics, hyperlocal weather intelligence, crop calendars, and an <b>AI advisory chat</b> across 10+ Indian languages.</p>
       <p>💰 <b>₹2.43 Lakh SSIP Government Research Grant</b></p>
       <p>
         <img src="https://img.shields.io/badge/Python-2E1065?style=flat-square&logo=python&logoColor=A855F7">
