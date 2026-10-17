@@ -18,7 +18,7 @@
 <br/><br/>
 
 <!-- ===================== PROFILE BADGES ===================== -->
-<img src="https://img.shields.io/badge/BASED%20IN-Vadodara,%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
+<img src="https://img.shields.io/badge/BASED%20IN-Surat,%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
 
 </div>
 
