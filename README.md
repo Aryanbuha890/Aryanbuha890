@@ -70,7 +70,7 @@ class AryanBuha:
         self.government_grant = "₹2.43 Lakh — SSIP Gujarat (AgriForge)"
         
     def motto(self):
-        return "I don't build prototypes. I build products that ship. 🚀"
+        return "I don't build prototype. I build products that ship. 🚀"
 ```
 
 <br/>
