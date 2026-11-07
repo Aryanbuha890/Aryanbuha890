@@ -57,7 +57,7 @@ class AryanBuha:
         self.role         = "AI/ML Engineer & Full-Stack Developer"
         self.university   = "The Maharaja Sayajirao University of Baroda"
         self.degree       = "B.E. Computer Science & Engineering [Jun 2024 → Apr 2028]"
-        self.location     = "Vadodara, Gujarat, India 🇮🇳"
+        self.location     = "Surat, Gujarat, India 🇮🇳"
         
         self.mission      = [
             "Building intelligent AI systems for real-world impact",
